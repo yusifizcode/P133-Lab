@@ -1,0 +1,26 @@
+1. Verilmiş string dəyərində verilmiş char-ın hansı index-də yerləşdiyini tapıb qaytaran metod.
+Misalçün metodu call edib "salam" və 'l' dəyərləri göndərsək geriyə 2 qaytarmalıdır 
+amma char həmin string-də olmasa -1 qaytarmalıdır.
+
+2. Verilmiş  ədədin ən yaxın aşağı kökaltısını tapıb qaytaran metod.
+
+3.Verilmiş integer array-in  bütün elementlərini  musbet şəkildə qaytaran metod.
+Misalçün parametr olaraq {1,-4,9,-8} dəyərləri olan array daxil edilsə arqument 
+kimi metod bizə {1,4,9,8} dəyərləri olan array qaytarmalıdır.
+
+4.Verilmiş string variable-ın dəyərini içərisində hər söz arasında bir boşluq gələcək 
+vəzyətə salan metod.
+Misalçün bu metoda dəyəri " salam,      Dunya" olan string variable göndərsək həmin metod 
+bu variable-ın dəyərini dəyişib "salam, Dunya" vəziyyətinə salmalıdır.
+Yəni, göndərilən string-də sözlər arasında birdən çox boşluq ola bilər, onu hər söz arasında 
+bir boşluq olan vəziyyətə  salan metod yazırsınız.
+Metod geriyə dəyər qaytarmır!
+
+5. Worker Classimiz olur. 
+Ishcinin adini, soyadini,yashini saat bashi qazandigi pul 
+ve bu ay nece saat ishlediyini bildiren fieldler olur.
+Maashi hesablayan methodu olur.Methodda isçinin bu ay qazanacagi  meblegi geri qaytarir.
+Ishcinin adini,soyadini,yashini, maashini daxil etmeden classdan instance almak olmasın.
+Eger ishcinin yashi 18-den azdirsa ekrana "ishlemek ucun minimum yashi 18 
+olmalidir" yazısı olsun.
+

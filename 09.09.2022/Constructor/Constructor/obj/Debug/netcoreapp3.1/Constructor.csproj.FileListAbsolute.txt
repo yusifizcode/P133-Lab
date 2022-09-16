@@ -1,0 +1,14 @@
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\bin\Debug\netcoreapp3.1\Constructor.exe
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\bin\Debug\netcoreapp3.1\Constructor.deps.json
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.json
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.dev.json
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\bin\Debug\netcoreapp3.1\Constructor.dll
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\bin\Debug\netcoreapp3.1\Constructor.pdb
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.AssemblyReference.cache
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfoInputs.cache
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfo.cs
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.dll
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.pdb
+C:\Users\yusifizcode\Desktop\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.genruntimeconfig.cache

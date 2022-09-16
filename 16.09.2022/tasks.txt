@@ -1,0 +1,33 @@
+TASK - 1
+Asagidaki parameterlerden ibret Employee class-i yaradirsini
+No - iscinin nomresi company-e elave edilme sirasina gore olur (company-e birinic elave edilen iscinin no deyrei 1, ikincide 2 olsun)
+Fullname
+Salary
+Position - iscinin sirketdeki vezifesi
+Asagidaki parameterlerden ibaret Company class-i yaradirsiniz:
+Name - Company adini ifade edir. Company adi boyuk herfle baslamalidir ve icerisinde herf,reqem ve bosluqdan basqa hec ne (simvol) ola bilmez
+Limit - Company-da ola bilecek maximum isci sayini ifade edir
+Employees - Company-in icerisindeki iscilerin siyahisini ifade edir (Employee typda array)
+AddEmoployee() - metod prameter olaraq  Employee  typinda obyekt qebul edir ve onu eger  Company - da yer varsa  Company -nin  Employees arrayine elave edir
+GetEmployees() - bu metod  Employee-larin siyahisini geriye qaytarir
+
+TASK - 2
+Asagidaki metodlari olan IAccount interface yaradirsiniz :
+PasswordChecker() - parameter oalraq string sifreni qebul edir
+ShowInfo()
+
+Asagidaki memberlerden ibaret User class-i yaradirsiniz ve IAccount interface-dan miras alib methodlari 
+implement edirsiniz implement elediyniz methodlarin bodylerinde uygun alqoritmleri qurursunuz:
+Fullname
+Email
+Password
+PasswordChecker() - PasswordChecker metodu - gelen string sifre deyerinin sertleri odeyib odemediyini 
+yoxlayib true/false deyer qaytarir. Şertler: - sifrede minimum 8 character olmalidir - sifrede en az 
+1 boyuk herf olmaldir - sifrede en az 1 kicik herf olmalidir - sifrede en az 1 reqem olmalidir
+ShowInfo() - bu metod Console-a user-in Fullanem ve email-inin yazdirir
+ps: User classina IAccount interface-i implement edilir.User yarandigi zaman email ve sifre teyin edilmesi 
+mecburidir. Usere sifre teyin edilerken sifrenin PasswordChecker metodunun sertlerini odemesi lazimdir.
+
+
+
+

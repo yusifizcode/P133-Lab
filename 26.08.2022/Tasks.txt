@@ -1,0 +1,40 @@
+Task - 1
+Yeni repo yaradın. Repoya 2 fərqli fayl yaradıb yükləyin. (2 fərqli commit edin).
+Daha sonra faylın içini remote repo-da dəyişin və dəyişiklikləri local repoya pull edin.
+
+.gitignore faylı yaradaraq, fayllardan birini iqnora salın. Növbəti push vaxtı həmin fayl remote repoya yüklənməməlidir!
+
+Yeni branch yaradın. 3-cü faylı yeni branchda yaradaraq merge request göndərin (push edin). Daha sonra iki branchı merge edərək yekun dəyişiklikləri main branch-da cəmləyin.
+
+
+Task - 2
+Tələbə İmtahan Qiymətini Daxil Edir. Daxil Edilən İmtahan Qiyməti 0 və 100 Aralığında Olmalıdır.
+Əgər Qiymət 91 və 100 Aralığındadırsa A Çap Etsin.
+Əgər Qiymət 81 və 90 Aralığındadırsa B Çap Etsin.
+Əgər Qiymət 71 və 80 Aralığındadırsa C Çap Etsin.
+Əgər Qiymət 61 və 70 Aralığındadırsa D Çap Etsin.
+Əgər Qiymət 51 və 60 Aralığındadırsa E Çap Etsin.
+Əgər Qiymət 51 -dən Kiçikdirsə Kəsildiniz Çap Etsin.
+ 
+
+Task - 3
+İsdifadəçi Ədəd Daxil Edir. Daxil Edilən Ədədin Neçə Mərtəbəbli Olduğunu Tapan Alqoritmi Qurun (Misal: 15613 - 5 Mərtəbəli, 656 - 3 Mərtəbəli)
+
+
+Task - 4
+İsdifadəçi Ədəd Daxil Edir. Daxil Edilən Ədədin Müsbət Olmalıdır. Daxil Edilən Ədədin Həm 7-ə Həm Də 3-ə Bölünüb Bölünməməsini Tapan Alqoritm Qurun.
+
+
+Task - 5
+
+İstifadəçi hər hansısa ədəd daxil edir. Ədəd 5dən azdırsa üstünə bir gəlir, eded 5den boyukdurse -2, və yoxlama yenidən baş verir.
+Bu əməliyyat ədəd 5ə çatana kimi davam edir. Ədəd 5ə bərabər olarsa ekrana "Carpe diem" sözü çıxsın.
+
+Task - 6
+1-dən 100-ə qədər tək ədədlərin sayını tapan alqoritm qurun.
+
+Task - 7
+İsdifadəçi ədəd daxil edir. Daxil edilən ədədin faktorial-nı tapan alqoritm quruun.
+
+Task - 8
+1-dən 100-ə qədər cüt ədədlərin cəmini tapan alqoritm qurun.

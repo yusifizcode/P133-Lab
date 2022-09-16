@@ -1,0 +1,16 @@
+TASK - 3
+Asagidaki Memberlerden ibaret Student adinda class yaradin:
+FullName
+GroupNo
+Age
+GroupNo memberi ardicil olaraq bir boyuk verf ve 3 reqemli bir 
+natural edededen ibaret olmalidir (misalcun: P225)  FullName 
+memberi ad ve soyadi ifade edir, ona gore de  FullName deyeri ad 
+ve soyaddan ibaret olmalidir. Formati ad +bosluq+soyad seklinde olmalidir (misalcu: "Abbas Quliyev")
+static CheckGroupNo()  method yaradirsiniz - parametr olaraq 
+gonderilen groupNo value-nun dogru olub olmamasini yoxlayir ve true/false qaytrir 
+static CheckFullname() method yaradirsiniz - parametr olaraq 
+gonderilen fullname value-nun dogru olub olmamasini yoxlayir ve true/false qaytrir
+Qeyd:Student yaradilarken butun deyerlerin verilmesi mecburidir. 
+Main hissesinde Student yaratmaq ucun console-dan deyer qebul 
+edin ve gonderilmis deyerler duzgun olanadek yeniden daxil edilmesini temin edin.

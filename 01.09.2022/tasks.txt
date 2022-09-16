@@ -1,0 +1,44 @@
+Task - 1
+Tələbə İmtahan Qiymətini Daxil Edir. Daxil Edilən
+ İmtahan Qiyməti 0 və 100 Aralığında Olmalıdır.
+Əgər Qiymət 91 və 100 Aralığındadırsa A Çap Etsin.
+Əgər Qiymət 81 və 90 Aralığındadırsa B Çap Etsin.
+Əgər Qiymət 71 və 80 Aralığındadırsa C Çap Etsin.
+Əgər Qiymət 61 və 70 Aralığındadırsa D Çap Etsin.
+Əgər Qiymət 51 və 60 Aralığındadırsa E Çap Etsin.
+Əgər Qiymət 51 -dən Kiçikdirsə Kəsildiniz Çap Etsin.  
+
+Task - 2
+Duzbucaqlinin Sahe Ve Perimetrini Tapan Alqoritm Qurmaq
+
+Task - 3
+"Hello world" sözünü 10 dəfə çap edən algorithmi qurun.
+
+Task - 4	
+1-dən 100-ə qədər cüt ədədlərin cəmini tapan alqoritm qurun.
+
+Task - 5
+İsdifadəçi ədəd daxil edir. Daxil edilən ədədin faktorial-nı tapan alqoritm quruun.
+
+Task - 6
+
+isdifadəçi 3 rəqəmli ədəd daxil etməlidir. Daxil edilən 3 rəqəmli ədədin rəqəmlərni ayrı ayrı yazdırın.
+ Misal - 976 ədədinin rəqəmləri 9 , 7 , 6
+
+Task - 7
+İsdifadəçi Ədəd Daxil Edir. Daxil Edilən Ədəd Sadə Və Ya Mürəkkəb Olduğunu Tapana Alqoritm Qururn.
+
+Task - 8
+İsdifadəçi ədəd daxil edir. Daxil edilən ədədnin rəqəmlərnin kublarının cəmini tapan alqoritm qurun.
+ Misal 25 2-nin kubu 8, 5-in kubu 125, cəmi 133
+
+Task - 9
+İsdifadəçi iki dənə ədəd daxil edir n və m ədədləri. 
+n və m ədədləridə daxil olmaqla bu ədədlər aralığında olan 4-ə tam bölünən ədədlərin sayını tapan alqoritm qurun.
+
+Task - 10
+İsdifadəçi bir dənə ədəd daxil edir. daxil edilən ədədin neçə dənə tam böləni olduğnu tapan alqoritm qurun.
+
+Task - 11
+İsdifadəçi ədəd daxil edir. Daxil edilən ədədin rəqəmlərindən ən böyük olanının sayını tapan alqoritm qurun. 
+Misal 564949 -- ənböyük ədədi 9 dur 2 dəfə təkrarlanıb
