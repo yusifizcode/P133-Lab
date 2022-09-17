@@ -1,0 +1,71 @@
+Task - 1
+Asagidaki metodlardan iabret static ExtentionMethods class-i yaradin:
+IsEven() - int deyerler ucun hemin deyerini cut eded olub olmadigini geri (true/false) qaytaran  method
+GetValueIndexes() - integer array-leri ucun parameter olaraq gonderilmis integer deyerinin bu arrayin 
+hansi indexlerinde oldugunu tapib ,butun tapdigi indexleri array olaraq geri qaytaran metod .
+(hec bir deyer tapilmazsa geriya bos (0 uzunluqlu) int[] qayidir)
+IsOdd() - int deyerler ucun hemin deyerin tek eded olub olmadigini geri (true/false) qaytaran method
+IsContainsDigit() - string deyerler ucun hemin deyerin daxilinde digit character olub olmamsini axtarib geri (true/false)   
+qaytaran metod
+GetValueIndexes() - string-ler ucun parameter oaraq gonderilen charin stringin hansi indexlerinde yerlesdiyini tapan ve 
+tapdigi butun indexleri array olaraq geri qaytaran metod (hec bir deyer tapilmazsa geriya bos (0 uzunluqlu) int[] qayidir)
+
+Task - 2
+Product class
+ - Name
+ - Price
+ - GetInfo()
+
+Book class
+ - Author
+ - Genre
+ - GetInfo()
+
+
+Journal class
+ - Company
+ -  GetInfo()
+
+Library class
+ - Products - Product array
+ - AddProduct() - parametr oalraq product dəyəri qəbul edib array-ə add edir
+ - GetProductsByPrice() - parametr olaraq minPrice və maxPrice dəyərləri qəbul 
+edib o qiymət aralığındakı məhsulları geri qaytarır array şəklində
+ - GetProductByName - parametr olaraq string dəyər qəbul edir və adında həmin 
+dəyər olan məhsullardan ibarət array qaytarır
+
+Journal və Book classları Productdan miras alır
+Product abstractdır
+Hər bir productın  GetInfo() metodu olmalıdır amma hansı productda nə iş görəcəyi 
+bəlli deyil, Bookda başqa Journal-da başqa əməliyyat gedə bilər
+
+
+Task - 3
+
+Instance almaq olmayan Person classı yaradılır və Name, Surname, Age propertyləri olur.
+
+Persondan miras alan Employee classı olur. Employee classında
+- SalaryOfHour (saatbaşı qazandığı maaş)
+- WorkingHour (30 gün ərzində neçə saat işlədiyi)
+- CalculateSalary() - Ümumi maaşı hesablayan method.
+memberləri olur.
+Name, Surname, Age, SalaryOfHour, WorkingHour məlumatlarını daxil etmədən işçi yaratmaq mümkün olmasın.
+İşçinin günlük ortalama iş saatı 8 saatdan çox ola bilməz. Aylıq maaşı 250 manatdan az ola bilməz. İşçi 18 yaşın 
+altındadırsa işləmə hüququ yoxdur.
+
+Persondan miras alan Student classı verilir. Student classında
+- IQRank (IQ imtahanının nəticəsi (100 bal üzərindən))
+- LanguageRank (Dil imtahanının nəticəsi (100 bal üzərindən))
+- ExamResult() - Şagirdin iki imtahanının nəticəsi 120dən azdırsa, o zaman sinifdə qaldığı mənasını bildirən methoddur.
+Name, Surname, Age, IQRank, LanguageRank məlumatlarını daxil etmədən Student yaratmaq mümken olmasın.
+Şagirdin yaşı 6dan az, 20dən çoxdursa o zaman şagirdin məlumatları daxil edilə bilməsin.
+
+
+
+
+
+
+
+
+
+
